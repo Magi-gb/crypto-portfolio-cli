@@ -1,0 +1,30 @@
+Actiu BTC creat correctament
+Actiu ETH creat correctament
+Preu de BTC a 2024-01-01 creat correctament
+Preu de ETH a 2024-01-01 creat correctament
+Usuari Laia amb email laia@upc.edu creat correctament
+100000 Euros afegits correctament a l'usuari Laia
+Compra de 1 unitats registrada per Laia en BTC
+Preu de BTC a 2024-01-02 creat correctament
+Compra de 1 unitats registrada per Laia en BTC
+--------------------
+EUR - amount: 10000
+BTC - amount: 2 - avgCost: 45000 - preuActual: 50000
+Total avgCost: 100000 - Total preuActual: 110000 - Guany total: 10000
+--------------------
+Preu de BTC a 2024-01-03 creat correctament
+--------------------
+EUR - amount: 10000
+BTC - amount: 2 - avgCost: 45000 - preuActual: 60000
+Total avgCost: 100000 - Total preuActual: 130000 - Guany total: 30000
+--------------------
+Venda de 0.5 unitats registrada per Laia en BTC
+Error al comprar ETH. L'usuari no disposa de fons suficients
+Error al vendre ETH. L’usuari no posseeix l’actiu ETH
+Error al vendre XRP. Actiu XRP no existeix
+Error al afegir Euros a l'usuari Laia. Quantitat incorrecte
+--------------------
+EUR - amount: 40000
+BTC - amount: 1.5 - avgCost: 45000 - preuActual: 60000
+Total avgCost: 107500 - Total preuActual: 130000 - Guany total: 22500
+--------------------

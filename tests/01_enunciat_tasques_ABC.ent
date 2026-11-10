@@ -1,0 +1,42 @@
+crearActiu BTC Bitcoin 8
+crearActiu ETH Ethereum 18
+crearActiu EUR Euro 2
+crearActiu BTC Bitcoin 8
+crearActiu SOL Solana 9
+mostrarActius
+crearPreu BTC 2024-01-01 42000
+crearPreu BTC 2024-01-02 43000
+crearPreu ETH 2024-01-01 2200
+crearPreu EUR 2024-01-01 1
+crearPreu XRP 2024-01-01 0.6
+crearPreu BTC 2024-01-01 44000
+mostrarPreusActiu BTC
+mostrarPreusActiu ETH
+mostrarPreusActiu SOL
+crearUsuari Ana ana@upc.edu jkxys
+crearUsuari Pau pau@gmail.com letrsfda
+crearUsuari Ana ana@upc.edu hmertts
+mostrarUsuaris
+crearAdreca Ana BTC 1xBTCAddress "Wallet BTC principal"
+crearAdreca Pau ETH 1xETHAddress "Wallet ETH principal"
+crearAdreca Jordi BTC 1xBTCAddress "Wallet BTC"
+crearAdreca Ana XRP 1xXRPAddress "Wallet XRP"
+mostrarAdrecesUsuari Ana
+mostrarAdrecesUsuari Pau
+mostrarAdrecesUsuari Jordi
+crearUsuari Marc marc@upc.edu Marc1980!ku
+afegirEuros Marc 100000
+afegirEuros Jordi 5000
+retirarEuros Marc 20000
+retirarEuros Marc 200000
+afegirEuros Marc 120000
+mostrarUsuaris
+preuActualActiu BTC
+preuActualActiu ETH
+comprar Marc BTC 1
+comprar Marc ETH 10
+comprar Marc SOL 5
+vendre Marc ETH 20
+carteraDeUsuari Marc
+carteraDeUsuari Jordi
+acabar

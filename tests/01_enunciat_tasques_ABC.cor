@@ -1,0 +1,71 @@
+Actiu BTC creat correctament
+Actiu ETH creat correctament
+Actiu EUR creat correctament
+Error al crear Actiu BTC. L'Actiu ja existeix
+Actiu SOL creat correctament
+--------------------
+BTC - Bitcoin - Decimals: 8
+ETH - Ethereum - Decimals: 18
+EUR - Euro - Decimals: 2
+SOL - Solana - Decimals: 9
+--------------------
+Preu de BTC a 2024-01-01 creat correctament
+Preu de BTC a 2024-01-02 creat correctament
+Preu de ETH a 2024-01-01 creat correctament
+Error al crear Preu de EUR a 2024-01-01. No es permet crear preus per a EUR
+Error al crear Preu de XRP a 2024-01-01. L'actiu no existeix
+Error al crear Preu de BTC a 2024-01-01. Ja s'ha introduït un preu per a aquest actiu i data
+--------------------
+BTC 2024-01-01 42000
+BTC 2024-01-02 43000
+--------------------
+--------------------
+ETH 2024-01-01 2200
+--------------------
+Error al mostrar Preus. Actiu SOL no te preus
+Usuari Ana amb email ana@upc.edu creat correctament
+Usuari Pau amb email pau@gmail.com creat correctament
+Error al crear Usuari Ana
+--------------------
+Ana - ana@upc.edu
+Pau - pau@gmail.com
+--------------------
+Adreça afegida a Ana
+Adreça afegida a Pau
+Error al crear Adreça. L'usuari Jordi no existeix
+Adreça afegida a Ana
+--------------------
+BTC - 1xBTCAddress - Wallet BTC principal
+XRP - 1xXRPAddress - Wallet XRP
+--------------------
+ETH - 1xETHAddress - Wallet ETH principal
+--------------------
+Error al mostrar Adreces. Usuari Jordi no existeix
+Usuari Marc amb email marc@upc.edu creat correctament
+100000 Euros afegits correctament a l'usuari Marc
+Error al afegir Euros a l'usuari Jordi. L'usuari no existeix
+20000 Euros retirats correctament a l'usuari Marc
+80000 Euros retirats correctament a l'usuari Marc
+120000 Euros afegits correctament a l'usuari Marc
+--------------------
+Ana - ana@upc.edu
+Pau - pau@gmail.com
+Marc - marc@upc.edu
+--------------------
+--------------------
+BTC 2024-01-02 43000
+--------------------
+--------------------
+ETH 2024-01-01 2200
+--------------------
+Compra de 1 unitats registrada per Marc en BTC
+Compra de 10 unitats registrada per Marc en ETH
+Error al comprar SOL. Actiu SOL no té un preu actual
+Venda de 10 unitats registrada per Marc en ETH
+--------------------
+EUR - amount: 77000
+BTC - amount: 1 - avgCost: 43000 - preuActual: 43000
+ETH - amount: 0 - avgCost: 0 - preuActual: 2200
+Total avgCost: 120000 - Total preuActual: 120000 - Guany total: 0
+--------------------
+Error al mostrar tenencies per l'usuari: Jordi

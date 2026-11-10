@@ -1,0 +1,19 @@
+crearActiu BTC Bitcoin 8
+crearActiu ETH Ethereum 18
+crearPreu BTC 2024-01-01 40000
+crearPreu ETH 2024-01-01 2000
+crearUsuari Laia laia@upc.edu pwd123
+afegirEuros Laia 100000
+comprar Laia BTC 1
+crearPreu BTC 2024-01-02 50000
+comprar Laia BTC 1
+carteraDeUsuari Laia
+crearPreu BTC 2024-01-03 60000
+carteraDeUsuari Laia
+vendre Laia BTC 0.5
+comprar Laia ETH 100
+vendre Laia ETH 1
+vendre Laia XRP 1
+afegirEuros Laia -50
+carteraDeUsuari Laia
+acabar
